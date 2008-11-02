@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                ExtUtils-InstallPAR
-version:             0.01
+version:             0.02
 abstract:            Install .par's into any installed perl
 license:             perl
 author:              
